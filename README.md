@@ -19,7 +19,6 @@ The data used in this project is sourced from the US Department of Transportatio
 10. Identify the top ten planes with the worst departure delays.
 
 ## File Structure
-- `flight_data.csv`: Raw data file containing flight information.
 - `analysis.ipynb`: Jupyter Notebook containing Python code for data analysis.
 - `README.md`: Documentation file providing an overview of the project.
 
