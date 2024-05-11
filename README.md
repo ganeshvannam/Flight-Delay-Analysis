@@ -1,4 +1,4 @@
-# Flight Delays Analysis
+# Flights Delay Analysis
 
 ## Overview
 This project aims to analyze flight delay statistics for three potential connector airports: Chicago O'Hare International Airport (ORD), Detroit Metropolitan Wayne County Airport (DTW), and Minneapolis−Saint Paul International Airport (MSP). The analysis will provide insights into the reliability of flight services at these airports based on historical data.
