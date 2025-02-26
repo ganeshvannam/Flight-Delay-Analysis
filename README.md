@@ -53,6 +53,3 @@ We explore historical flight data to assess operational reliability, identify de
 - Designed and implemented visually appealing charts and graphs to present findings to non-technical stakeholders.
 - Demonstrated proficiency in Python and popular data science libraries, showcasing skills in both data cleaning and visualization.
 
----
-
-Let me know if you need any more changes!
