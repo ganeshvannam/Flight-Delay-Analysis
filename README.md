@@ -1,13 +1,5 @@
 # ✈️ Flights Delay Analysis Project
 
-![Airport](https://img.shields.io/badge/Airports-ORD%20|%20DTW%20|%20MSP-blue) 
-![Python](https://img.shields.io/badge/Python-3.8%2B-success) 
-![Libraries](https://img.shields.io/badge/Libraries-pandas%20|%20seaborn%20|%20matplotlib-orange)
-
-A data-driven analysis of flight delays at major US connector airports. Part of the **Data Analysis Portfolio** by Ganesh Vannam.
-
----
-
 ## 📌 Overview
 This project analyzes flight delay patterns at three major connector airports:
 - **ORD**: [Chicago O'Hare International Airport](https://en.wikipedia.org/wiki/O%27Hare_International_Airport)
