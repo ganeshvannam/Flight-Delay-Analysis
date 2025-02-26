@@ -1,5 +1,12 @@
 # ✈️ Flights Delay Analysis Project
 
+![Airport](https://img.shields.io/badge/Airports-ORD%20|%20DTW%20|%20MSP-blue) 
+![Python](https://img.shields.io/badge/Python-3.8%2B-success) 
+![Libraries](https://img.shields.io/badge/Libraries-pandas%20|%20seaborn%20|%20matplotlib-orange)
+
+A data-driven analysis of flight delays at major US connector airports. Part of the **Data Analysis Portfolio** by Ganesh Vannam.
+
+---
 
 ## 📌 Overview
 This project analyzes flight delay patterns at three major connector airports:
@@ -8,17 +15,6 @@ This project analyzes flight delay patterns at three major connector airports:
 - **MSP**: [Minneapolis-Saint Paul Airport](https://en.wikipedia.org/wiki/Minneapolis%E2%80%93Saint_Paul_International_Airport)
 
 We explore historical flight data to assess operational reliability, identify delay trends, and provide actionable insights to stakeholders in the aviation industry.
-
----
-
-## 📂 Data Source
-**US Department of Transportation**  
-🔗 [Bureau of Transportation Statistics (BTS)](https://www.bts.gov/)  
-Includes:
-- Flight schedules
-- Actual departure/arrival times
-- Cancellations & diversions
-- Delay causes (weather, carrier, etc.)
 
 ---
 
@@ -65,4 +61,6 @@ Includes:
 - Designed and implemented visually appealing charts and graphs to present findings to non-technical stakeholders.
 - Demonstrated proficiency in Python and popular data science libraries, showcasing skills in both data cleaning and visualization.
 
+---
 
+Let me know if you need any more changes!
